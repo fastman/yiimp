@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fastman/yiimp.svg?branch=next)](https://travis-ci.org/fastman/yiimp)
+
 #yiimp - yaamp fork
 
 Required:
